@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "linkroll"
-permalink: /linkroll
+permalink: /linkroll/landing
 ---
 
 [Books](linkroll-books.md)
