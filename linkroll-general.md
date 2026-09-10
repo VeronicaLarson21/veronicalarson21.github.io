@@ -24,5 +24,9 @@ permalink: /linkroll/general
 [Eye on the Prize by Joan Didion for The New York Review](https://www.nybooks.com/articles/1992/09/24/eye-on-the-prize/)  
 [Talking Games: The NSFW History of Strip Mahjong Games](https://www.tsundokudiving.com/the-nsfw-history-of-strip-mahjong/)  
 [America's Sewer Systems are Suprisingly Vulnerable to Cyber Attacks by Soham Mehta for Policy Gradients](https://policygradients.thefai.org/p/americas-sewer-systems-are-surprisingly)  
+[Designer Sofia Abadi is creating a hyper-femme world](https://www.dazeddigital.com/fashion/article/70117/1/sofia-abadi-online-girl-in-a-hyper-femme-world-rising-designer)  
+[The Californian Ideology by Richard Barbrook and Andy Cameron in the HRC Archive](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/)  
+[Property Is Only Another Name for Monopoly by Eric A. Posner and E. Glen Weyl for the Journal of Legal Analysis](https://academic.oup.com/jla/article/9/1/51/3572441?login=false)  
+[The Sound of Being Online: Sabukaru Meets Ninajirachi by sabakaru for their website](https://sabukaru.online/articles/the-sound-of-being-online-sabukaru-meets-ninajirachi)  
 
 
