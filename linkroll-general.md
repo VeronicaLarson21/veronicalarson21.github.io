@@ -28,5 +28,9 @@ permalink: /linkroll/general
 [The Californian Ideology by Richard Barbrook and Andy Cameron in the HRC Archive](http://www.imaginaryfutures.net/2007/04/17/the-californian-ideology-2/)  
 [Property Is Only Another Name for Monopoly by Eric A. Posner and E. Glen Weyl for the Journal of Legal Analysis](https://academic.oup.com/jla/article/9/1/51/3572441?login=false)  
 [The Sound of Being Online: Sabukaru Meets Ninajirachi by sabakaru for their website](https://sabukaru.online/articles/the-sound-of-being-online-sabukaru-meets-ninajirachi)  
+[Hook and Squeeze: How Democratic consultants, committees, and party leaders built a fundraising spam pipeline that funnels money from a captive pool of elderly donors into their own operations](https://data4democracy.substack.com/p/hook-and-squeeze)  
+[Peter Saville Wrote The Source Code: How the English Graphic Designer Set the Course For Contemporary Visual Culture by Adam Wray for SSENSE](https://www.ssense.com/en-us/editorial/culture/peter-saville-wrote-the-source-code?utm_source=substack&utm_medium=email)  
+[The Death of Canon: With the steady decline of monoculture, what will become of 'the canon'? by Sam Valenti IV for Dirt](https://dirt.fyi/article/2023/01/the-death-of-canon?utm_source=substack&utm_medium=email)  
+[The Gorgon Trap: Entropy, Cognitive Paralysis, and the Mechanics of Cognitive Warfare by Chad Briggs, Yuri Danyk, and Robert Weiss for Zenodo](https://zenodo.org/records/19326432?utm_source=substack&utm_medium=email)  
 
 
