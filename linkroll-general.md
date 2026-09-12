@@ -32,5 +32,8 @@ permalink: /linkroll/general
 [Peter Saville Wrote The Source Code: How the English Graphic Designer Set the Course For Contemporary Visual Culture by Adam Wray for SSENSE](https://www.ssense.com/en-us/editorial/culture/peter-saville-wrote-the-source-code?utm_source=substack&utm_medium=email)  
 [The Death of Canon: With the steady decline of monoculture, what will become of 'the canon'? by Sam Valenti IV for Dirt](https://dirt.fyi/article/2023/01/the-death-of-canon?utm_source=substack&utm_medium=email)  
 [The Gorgon Trap: Entropy, Cognitive Paralysis, and the Mechanics of Cognitive Warfare by Chad Briggs, Yuri Danyk, and Robert Weiss for Zenodo](https://zenodo.org/records/19326432?utm_source=substack&utm_medium=email)  
-
+[Sinister Synergies: Wall Street Thrillers by Max Read for Criterion](https://www.criterion.com/current/posts/9129-sinister-synergies?utm_source=substack&utm_medium=email)  
+[The Recreational Drug Tier List by Chaotic Neutral for their substack](https://chaoticneutralx.substack.com/p/the-ultimate-recreational-drug-tier?utm_source=multiple-personal-recommendations-email&utm_medium=email&triedRedirect=true)  
+[Reading is Magic: What will happen in our second peasanthood by Sam Kriss for Numb at the Lodge](https://samkriss.substack.com/p/reading-is-magic?utm_source=substack&utm_medium=email)  
+['Backrooms' Gets Lost in Its Own Labyrinth by Adam Nayman for the Ringer](https://www.theringer.com/2026/05/29/movies/backrooms-review-kane-parsons-liminal-spaces-youtube-renate-reinsve-chiwetel-ejiofor)
 
