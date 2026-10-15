@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pizza Maker</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=DM+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="layout">
+    <section class="stage">
+      <canvas id="pizza" width="800" height="800" role="img" aria-label="Your pizza"></canvas>
+    </section>
+
+    <form id="controls" class="panel">
+      <h1>Build your pizza</h1>
+
+      <fieldset>
+        <legend>Crust</legend>
+        <div class="options">
+          <label class="opt"><input type="radio" name="crust" value="thin"><span>Thin</span></label>
+          <label class="opt"><input type="radio" name="crust" value="regular" checked><span>Regular</span></label>
+          <label class="opt"><input type="radio" name="crust" value="thick"><span>Thick</span></label>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Sauce</legend>
+        <div class="options">
+          <label class="opt"><input type="radio" name="sauce" value="tomato" checked><span>Tomato</span></label>
+          <label class="opt"><input type="radio" name="sauce" value="white"><span>White</span></label>
+          <label class="opt"><input type="radio" name="sauce" value="pesto"><span>Pesto</span></label>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Cheese</legend>
+        <div class="options">
+          <label class="opt"><input type="radio" name="cheese" value="none"><span>None</span></label>
+          <label class="opt"><input type="radio" name="cheese" value="regular" checked><span>Regular</span></label>
+          <label class="opt"><input type="radio" name="cheese" value="extra"><span>Extra</span></label>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Toppings</legend>
+        <div class="options">
+          <label class="opt"><input type="checkbox" name="topping" value="pepperoni" checked><span>Pepperoni</span></label>
+          <label class="opt"><input type="checkbox" name="topping" value="sausage"><span>Sausage</span></label>
+          <label class="opt"><input type="checkbox" name="topping" value="mushroom"><span>Mushroom</span></label>
+          <label class="opt"><input type="checkbox" name="topping" value="pineapple"><span>Pineapple</span></label>
+          <label class="opt"><input type="checkbox" name="topping" value="onion"><span>Onion</span></label>
+          <label class="opt"><input type="checkbox" name="topping" value="pepper"><span>Green pepper</span></label>
+          <label class="opt"><input type="checkbox" name="topping" value="olive"><span>Olives</span></label>
+          <label class="opt"><input type="checkbox" name="topping" value="basil" checked><span>Basil</span></label>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend><label for="amount">Topping amount</label></legend>
+        <input id="amount" class="range" type="range" name="amount" min="0.5" max="1.5" step="0.25" value="1">
+        <div class="range-labels"><span>Sparse</span><span>Loaded</span></div>
+      </fieldset>
+
+      <fieldset>
+        <legend>Slices</legend>
+        <div class="options">
+          <label class="opt"><input type="radio" name="slices" value="0"><span>Whole</span></label>
+          <label class="opt"><input type="radio" name="slices" value="4"><span>4</span></label>
+          <label class="opt"><input type="radio" name="slices" value="6"><span>6</span></label>
+          <label class="opt"><input type="radio" name="slices" value="8" checked><span>8</span></label>
+        </div>
+      </fieldset>
+
+      <div class="actions">
+        <button type="button" id="shuffle" class="btn secondary">Rearrange toppings</button>
+        <button type="button" id="download" class="btn primary">Download PNG</button>
+      </div>
+      <p id="status" class="status" role="status"></p>
+    </form>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
